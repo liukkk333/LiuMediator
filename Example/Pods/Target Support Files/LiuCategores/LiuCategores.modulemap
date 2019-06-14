@@ -1,0 +1,6 @@
+framework module LiuCategores {
+  umbrella header "LiuCategores-umbrella.h"
+
+  export *
+  module * { export * }
+}

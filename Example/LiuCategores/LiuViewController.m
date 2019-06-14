@@ -7,7 +7,7 @@
 //
 
 #import "LiuViewController.h"
-
+#import "CTMediator.h"
 @interface LiuViewController ()
 
 @end

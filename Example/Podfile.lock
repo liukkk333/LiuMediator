@@ -1,0 +1,16 @@
+PODS:
+  - LiuCategores (0.1.0)
+
+DEPENDENCIES:
+  - LiuCategores (from `../`)
+
+EXTERNAL SOURCES:
+  LiuCategores:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LiuCategores: d20df9af842e6f4bc57ba104b730e24dc8677674
+
+PODFILE CHECKSUM: cfbe76a13ddec9c8d0713ca2a033d81059d605bc
+
+COCOAPODS: 1.7.1
